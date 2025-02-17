@@ -8,7 +8,7 @@
 - **PostgreSQL / SQLite** (Banco de Dados)
 - **HTML, CSS, JavaScript** (Frontend)
 - **Chart.js** (Gráficos e Visualizações)
-- **Bootstrap** (Estilização)
+- **Tailwind CSS** (Estilização)
 
 ## Funcionalidades
 
